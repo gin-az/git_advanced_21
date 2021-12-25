@@ -7,7 +7,13 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01cc204b-fb0a-42ae-8fc6-d0f20c6fc5d2" name="Default Changelist" comment="" />
@@ -19,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/GTLRN-1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,28 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640434871162</updated>
     </task>
-    <task id="LOCAL-00003" summary="Заполнен .gitignore">
-      <created>1640436023940</created>
+    <task id="LOCAL-00003" summary="4.2) Main.java изменен счетчик.">
+      <created>1640437363844</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1640436023940</updated>
+      <updated>1640437363844</updated>
     </task>
-    <task id="LOCAL-00004" summary="3.1) Добавляем содержимое в Main.java">
-      <created>1640436113701</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1640436113701</updated>
-    </task>
-    <task id="LOCAL-00005" summary="GTLRN1&#10;3.2) Изменнено содержимое в Main.java">
-      <created>1640436268805</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1640436268805</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,16 +100,23 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Добавлено содержимое в Main.java" />
     <MESSAGE value="Заполнен .gitignore" />
-    <MESSAGE value="3.1) Добавляем содержимое в Main.java" />
-    <MESSAGE value="GTLRN1&#10;3.2) Изменнено содержимое в Main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="GTLRN1&#10;3.2) Изменнено содержимое в Main.java" />
+    <MESSAGE value="Добавлено содержимое в Main.java" />
+    <MESSAGE value="4.2) Main.java изменен счетчик." />
+    <option name="LAST_COMMIT_MESSAGE" value="4.2) Main.java изменен счетчик." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1368" y="240" key="Vcs.Push.Dialog.v2" timestamp="1640436272924">
+    <state x="-1468" y="203" key="Git.Interactive.Rebase.Dialog" timestamp="1640437482075">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="240" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1640436272924" />
+    <state x="-1468" y="203" key="Git.Interactive.Rebase.Dialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1640437482075" />
+    <state x="-1368" y="240" key="Vcs.Push.Dialog.v2" timestamp="1640437368770">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="240" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1640437368770" />
+    <state x="-1182" y="381" key="git4idea.rebase.GitRebaseDialog" timestamp="1640437470824">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1182" y="381" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1640437470824" />
   </component>
 </project>
