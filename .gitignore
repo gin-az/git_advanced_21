@@ -1,0 +1,18 @@
+# a) build catalog content
+build/*
+
+# b) Все jar файлы
+*.jar
+# # кроме module2.jar (скорее всего в задании опечатка, т.к. есть противоречие с п.п. 2.2)
+!**module3.jar
+
+# c) игнорировать локальный файл настройки
+**/application-local.properties
+
+# d) .idea, кроме файла workspace.xml
+.idea/*
+!.idea/workspace.xml
+
+# 2.2 Исключаем все папки build
+**build/
+
